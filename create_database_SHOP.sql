@@ -7,7 +7,7 @@ CREATE TABLE users (
 	lastname VARCHAR(45),
 	login VARCHAR(45) NOT NULL,
 	password VARCHAR(45) NOT NULL,
-    email VARCHAR(100) NOT NULL,
+    	email VARCHAR(100) NOT NULL,
 	city VARCHAR(45),
 	voivodeship VARCHAR(45),
 	county VARCHAR(45),
